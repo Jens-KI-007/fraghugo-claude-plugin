@@ -1,13 +1,13 @@
 {
   "name": "fraghugo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "German data protection in Claude: GDPR fines, deadlines, software checks and supervisory authorities, plus breach reports and access requests filed straight into your frag.hugo account.",
   "author": {
     "name": "frag.hugo Informationssicherheit GmbH",
     "email": "support@fraghugo.de",
     "url": "https://www.fraghugo.de"
   },
-  "homepage": "https://www.fraghugo.de",
+  "homepage": "https://www.fraghugo.de/en/ai-assistant/",
   "repository": "https://github.com/Jens-KI-007/fraghugo-claude-plugin",
   "license": "MIT",
   "keywords": [
@@ -19,6 +19,6 @@
     "germany",
     "compliance"
   ],
-  "privacyPolicyUrl": "https://www.fraghugo.de/datenschutzerklaerung/",
+  "privacyPolicyUrl": "https://www.fraghugo.de/en/privacy-plugins/",
   "icon": ".claude-plugin/icon.png"
 }

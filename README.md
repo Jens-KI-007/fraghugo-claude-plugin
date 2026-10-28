@@ -47,8 +47,8 @@ supervisory authority or to a data subject by this plugin.
 
 ## Privacy Policy
 
-Controller: frag.hugo Informationssicherheit GmbH, Hamburg, Germany — imprint and full privacy policy:
-<https://www.fraghugo.de/impressum/> and <https://www.fraghugo.de/datenschutzerklaerung/>. Contact:
+Controller: frag.hugo Informationssicherheit GmbH, Hamburg, Germany — imprint and privacy notice:
+<https://www.fraghugo.de/impressum/> and <https://www.fraghugo.de/en/privacy-plugins/> (full German policy: <https://www.fraghugo.de/datenschutzerklaerung/>). Contact:
 support@fraghugo.de.
 
 - **The plugin itself** consists of text files (skills) and the server address. It collects nothing and runs no code on
