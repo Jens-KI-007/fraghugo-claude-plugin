@@ -1,0 +1,17 @@
+{
+  "name": "fraghugo",
+  "owner": {
+    "name": "frag.hugo Informationssicherheit GmbH",
+    "email": "support@fraghugo.de"
+  },
+  "metadata": {
+    "description": "frag.hugo plugins for Claude: German data protection (DSGVO/GDPR) and EU AI Act."
+  },
+  "plugins": [
+    {
+      "name": "fraghugo",
+      "source": "./",
+      "description": "German data protection in Claude: GDPR fines, deadlines, software checks and supervisory authorities, plus breach reports and access requests filed straight into your frag.hugo account."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fraghugo": {
+      "type": "http",
+      "url": "https://mcp.fraghugo.de/mcp"
+    }
+  }
+}
